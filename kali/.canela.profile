@@ -1,4 +1,7 @@
 #!/usr/bin/zsh
+
+export PATH="$PATH:/home/canela/git/.config/kali"
+
 alias ll='ls -la'
 alias la='ls -A'
 alias l='ls -CF'
